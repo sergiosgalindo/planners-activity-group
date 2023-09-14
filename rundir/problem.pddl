@@ -72,7 +72,7 @@
 			(there_a_mineral whiterock L5)
 			(there_a_mineral purplerock L5)
 			(there_a_mineral pinkrock L5)
-			(there_a_mineral purplerock L5)
+			(there_a_mineral blackrock L5)
 			(at L5)
 		)
 	)
