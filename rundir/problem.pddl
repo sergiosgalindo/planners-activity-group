@@ -68,7 +68,6 @@
 			(there_a_mineral yellowrock L5)
 			(there_a_mineral greenrock L5)
 			(there_a_mineral bluerock L5)
-
 			(there_a_mineral whiterock L5)
 			(there_a_mineral purplerock L5)
 			(there_a_mineral pinkrock L5)
